@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environment and IDE settings
+.env
+.idea/
+.vscode/
+.DS_Store
+
+# Log files (keep logs directory, ignore log output files except sample if desired)
+logs/*.log
+
+# Operating system files
+Thumbs.db
+Desktop.ini
